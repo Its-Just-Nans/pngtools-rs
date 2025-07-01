@@ -1,5 +1,5 @@
 [package]
-name = "pngtools-rs"
+name = "pngtools"
 version = "1.0.0"
 edition = "2024"
 description = "pngtools"
